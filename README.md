@@ -1,4 +1,4 @@
- # INSTA-BF
+ # INSTA-IBF
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/19KHPduHx2C8WAeq13b4xTsGocqq2PM5mN)](https://en.cryptobadges.io/donate/19KHPduHx2C8WAeq13b4xTsGocqq2PM5mN)
 
 
@@ -16,12 +16,12 @@ Open source, you can modify it
 
 
 ## Getting Started
-1. ```git clone https://github.com/samsesh/insta-bf.git```
-2. ```cd insta-bf```
+1. ```git clone https://github.com/Unlimited-Crack-You/Insta-Ibf.git```
+2. ```cd Insta-Ibf```
 3. ```python3 instabf.py```
 
 ## Getting Started on andriod (termux)
-1. ```apt update && apt install -y git && git clone https://github.com/samsesh/insta-bf.git && cd insta-bf && chmod +x * && sh andriod_setup.sh```
+1. ```apt update && apt install -y git && git clone https://github.com/Unlimited-Crack-You/Insta-Ibf.git && cd Insta-Ibf && chmod +x * && sh andriod_setup.sh```
 2. ```python instabf.py```
 
 ## who to find ?
