@@ -1,7 +1,4 @@
  # INSTA-IBF
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/19KHPduHx2C8WAeq13b4xTsGocqq2PM5mN)](https://en.cryptobadges.io/donate/19KHPduHx2C8WAeq13b4xTsGocqq2PM5mN)
-
-
 [![Version](https://img.shields.io/badge/instafb-2.0.0-brightgreen.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Codename-Pretty-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
@@ -12,7 +9,7 @@ Open source, you can modify it
 
 ## A look at the tool
 
-![tweet](./screen/1.png)
+![tweet](https://i.ibb.co/nQ48kX0/IMG-20231029-212356.jpg)
 
 
 ## Getting Started
